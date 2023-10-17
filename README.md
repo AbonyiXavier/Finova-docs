@@ -2,7 +2,7 @@
 
 ## Project: Finova
 
-This personal project signifies a forward-thinking and innovative platform for financial management within a corporate or enterprise context. 
+This project signifies a forward-thinking and innovative platform for financial management within a corporate or enterprise context. 
 
 
 In the backend development, I implemented a domain-driven design approach to structure the project codebase, aligning complex business logic with distinct business domains. User authentication processes, including signup, login, and secure password change, were secured through the incorporation of JWT for tokenization and bcrypt for password hashing and comparison.
